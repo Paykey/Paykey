@@ -30,8 +30,5 @@ I am a backend developer with a strong interest in cloud infrastructure and effi
 * **Capstone Project:** Researching and developing a cloud-native, environment-agnostic AI application deployment and management service.
 * **Cloud Computing:** Collaborating on a university team project focusing on cloud architecture and infrastructure management.
 
-### 🌱 My Playground
-* **Home Lab:** Operating a mini PC with Proxmox to self-host services (like Jellyfin) and exploring server administration.
-
 ### 📫 How to Reach Me
 * Email: wltjd5827@naver.com
