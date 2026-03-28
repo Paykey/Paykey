@@ -26,9 +26,5 @@ I am a backend developer with a strong interest in cloud infrastructure and effi
 
 **Frontend** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-### 🔭 Currently Working On
-* **Capstone Project:** Researching and developing a cloud-native, environment-agnostic AI application deployment and management service.
-* **Cloud Computing:** Collaborating on a university team project focusing on cloud architecture and infrastructure management.
-
 ### 📫 How to Reach Me
 * Email: wltjd5827@naver.com
