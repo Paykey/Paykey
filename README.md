@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Jiseong Kim (Paykey)!
-**Backend Developer | Senior at A University**
+**Backend Developer | Computer and Electronic Systems Engineering**
 
 I am a backend developer with a strong interest in cloud infrastructure and efficient service deployment. I enjoy building stable server environments and continuously expanding my technical capabilities through hands-on experience.
 
